@@ -4,7 +4,7 @@ A classic game with a modern twist: this is an **unbeatable AI version of Tic Ta
 
 ---
 
-![Game Screenshot](Screenshot(396).png)
+![Game Screenshot](Screenshot (396).png)
 
 ---
 
