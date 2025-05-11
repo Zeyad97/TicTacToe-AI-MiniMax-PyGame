@@ -4,7 +4,7 @@ A classic game with a modern twist: this is an **unbeatable AI version of Tic Ta
 
 ---
 
-![Game Screenshot](Screenshot (396).png)
+![Game](https://github.com/Zeyad97/TicTacToe-AI-MiniMax-PyGame/blob/main/Screenshot%20(396).png) - ![Lose](https://github.com/Zeyad97/TicTacToe-AI-MiniMax-PyGame/blob/main/Screenshot%20(397).png)
 
 ---
 
